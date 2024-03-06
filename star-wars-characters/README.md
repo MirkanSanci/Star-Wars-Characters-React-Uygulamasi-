@@ -1,4 +1,4 @@
-# Turkey City List ReactApp
+# Star Wars Characters React Uygulaması
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
